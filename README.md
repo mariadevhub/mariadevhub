@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   
 ![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=180&section=header&text=Maria%20Leonilyn%20Naive%20👩🏻‍💻&fontSize=36&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20|%20Building%20user-friendly,%20scalable%20web%20systems&descAlignY=75)
 
-</div>
+</div> -->
 
 # 👋 Hi, I'm Maria Leonilyn Naive  
 
