@@ -1,17 +1,12 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966" alt="Web Development Animated Header" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" alt="Animated Welcome Header" width="100%">
   
   <br>
   
-  <h2>Crafting high-quality digital solutions for the modern web.</h2>
+  <h2>Welcome to my digital workshop!</h2>
   
   <hr>
 </div>
-<!-- <div align="center">
-  
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=180&section=header&text=Maria%20Leonilyn%20Naive%20👩🏻‍💻&fontSize=36&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20|%20Building%20user-friendly,%20scalable%20web%20systems&descAlignY=75)
-
-</div> -->
 
 # 👋 Hi, I'm Maria Leonilyn Naive  
 
