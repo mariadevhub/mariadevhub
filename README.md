@@ -42,7 +42,7 @@ I create user-friendly, scalable websites and systems that help businesses grow 
 ### 📂 Featured Project  
 
 #### 🔹 **Purchasing Order Monitoring System**  
-[🖥️ Live Demo (Internal Access)](http://172.16.161.152/po_monitoring/PO_ctrl/Po_monitoring)
+<!-- [🖥️ Live Demo (Internal Access)](http://172.16.161.152/po_monitoring/PO_ctrl/Po_monitoring) -->
 
 A comprehensive **web-based system** built with **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, and **MySQL**, designed to **streamline purchasing workflows** and enhance operational visibility across departments.  
 
