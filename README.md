@@ -7,12 +7,18 @@ I create user-friendly, scalable websites and systems that help businesses grow 
 
 ### 🌟 About Me
 💻 Skilled in **PHP (CodeIgniter)**, **JavaScript**, **HTML5**, **CSS3**, and **MySQL**
- ⚙️ Experienced in both **frontend and backend development**, creating cohesive and high-performing web systems
- 🎨 Continuously exploring new tools and technologies to improve my craft and stay ahead in web development
- 🧠 Enthusiastic about building **clean, responsive interfaces** and **efficient backend solutions** that make work simpler for users
- 🧩 I enjoy turning complex problems into simple, maintainable code solutions
- 🌍 Based in the **Philippines 🇵🇭**, collaborating with global clients and remote teams
- ☕ Fun fact: I code better with coffee and calm music — simple things that keep me grounded while I build.
+
+⚙️ Experienced in both **frontend and backend development**, creating cohesive and high-performing web systems
+
+🎨 Continuously exploring new tools and technologies to improve my craft and stay ahead in web development
+
+🧠 Enthusiastic about building **clean, responsive interfaces** and **efficient backend solutions** that make work simpler for users
+
+🧩 I enjoy turning complex problems into simple, maintainable code solutions
+
+🌍 Based in the **Philippines 🇵🇭**, collaborating with global clients and remote teams
+
+☕ Fun fact: I code better with coffee and calm music — simple things that keep me grounded while I build.
  
 ---
 
