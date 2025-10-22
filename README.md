@@ -37,16 +37,28 @@ I create user-friendly, scalable websites and systems that help businesses grow 
 
 ---
 
-### 📂 Featured Projects  
+---
 
-#### 🔹 [Pricing Management System](https://github.com/mariadevhub/pricing-system)
-> A dynamic platform built with CodeIgniter, DataTables, and jQuery for price verification, tracking, and analytics.  
+### 📂 Featured Project  
 
-#### 🔹 [Client Dashboard Template](https://github.com/mariadevhub/dashboard-template)
-> A responsive dashboard with integrated Chart.js, AJAX tables, and role-based access for streamlined data visualization.  
+#### 🔹 **Purchasing Order Monitoring System**  
+[🖥️ Live Demo (Internal Access)](http://172.16.161.152/po_monitoring/PO_ctrl/Po_monitoring)
 
-#### 🔹 [VA Portfolio Website](https://github.com/mariadevhub/va-portfolio)
-> A personal portfolio showcasing web projects, skills, and contact options for potential clients.  
+A comprehensive **web-based system** built with **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, and **MySQL**, designed to **streamline purchasing workflows** and enhance operational visibility across departments.  
+
+🧩 **Core Features:**  
+- Vendor-based order tracking and monitoring  
+- Real-time status updates for *Pending*, *Done*, *Overdue*, and *Not Due Yet* items  
+- Role-based access control (Purchasing, Pricing, Accounting, and Audit views)  
+- Smart filtering and search by department or vendor  
+- Interactive charts and summary tiles for quick analytics  
+- Intuitive dashboard interface for better decision-making  
+
+🖥️ **Tech Stack:** CodeIgniter 3 · PHP · JavaScript · HTML5 · CSS3 · jQuery · DataTables · MySQL · Chart.js  
+
+💡 **Designed for corporate environments** that value **speed, accuracy, and clarity** in their purchasing and approval processes.  
+
+![Purchasing Order Monitoring System Screenshot](https://github.com/mariadevhub/mariadevhub/blob/main/PO-monitoring.png)
 
 ---
 
