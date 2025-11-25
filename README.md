@@ -57,7 +57,7 @@ A comprehensive web-based system built to streamline and track purchasing orders
 
 📸 Screenshot
 
-https://github.com/mariadevhub/mariadevhub/blob/main/PO%20Monitoring%20System.png
+![PO Monitoring System](https://github.com/mariadevhub/mariadevhub/blob/main/PO%20Monitoring%20System.png)
 
 
 
