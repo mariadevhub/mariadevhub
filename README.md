@@ -53,24 +53,8 @@ I create user-friendly, scalable websites and systems that help businesses grow 
 🔹 Purchasing Order Monitoring System
 
 A comprehensive web-based system built to streamline and track purchasing orders across multiple departments, providing real-time visibility and workflow efficiency.
-
-🧩 Core Features
-
-Vendor-based PO tracking
-
-Status monitoring (Pending, Done, Overdue, Not Due Yet)
-
-Role-based dashboards (Purchasing, Pricing, Accounting, Audit)
-
-DataTables with filtering, search, and pagination
-
-Analytics overview with summary tiles and charts
-
-🖥️ Tech Stack
-
-PHP · CodeIgniter 3 · JavaScript · jQuery · HTML5 · CSS3 · DataTables · MySQL · Chart.js
-
 📸 Screenshot
+
 
 
 
@@ -78,49 +62,14 @@ PHP · CodeIgniter 3 · JavaScript · jQuery · HTML5 · CSS3 · DataTables · M
 🔹 Pharma Reordering Management System
 
 A full inventory and reordering system designed to monitor supply usage, ensure availability, and automate purchasing triggers.
-
-🧩 Core Features
-
-Real-time stock monitoring
-
-Minimum stock alerts
-
-Automated reorder scheduling
-
-Supplier and PO logs
-
-Exportable and printable reports
-
-🖥️ Tech Stack
-
-PHP · CodeIgniter · MySQL · jQuery · HTML5 · CSS3
-
 📸 Screenshot
 
-Replace with your real image:
 
 ![Pharma Reordering System](https://your-image-link-here)
+
 🔹 Marcela Pharma Distribution Inc. – UNILAB System
-
-A corporate system developed for internal workflow, approval processes, and document management for Marcela Pharma Distribution Inc.
-
-🧩 Core Features
-
-Business document workflow automation
-
-Secure role-based access control
-
-Dashboard and monitoring tools
-
-Designed for real business operations and staff usability
-
-🖥️ Tech Stack
-
-PHP · CodeIgniter · MySQL · HTML5 · CSS3 · JavaScript · jQuery
-
 📸 Screenshot
 
-Replace with your real image:
 
 ![MPDI UNILAB System](https://your-image-link-here)
 
