@@ -47,9 +47,8 @@ I create user-friendly, scalable websites and systems that help businesses grow 
 
 ---
 
----
 
-📂 Featured Projects
+### 📂 Featured Projects
 
 🔹 Purchasing Order Monitoring System
 
@@ -60,6 +59,7 @@ A comprehensive web-based system built to streamline and track purchasing orders
 ![PO Monitoring System](https://github.com/mariadevhub/mariadevhub/blob/main/PO%20Monitoring%20System.png)
 
 
+---
 
 🔹 Pharma Reordering Management System
 
@@ -68,6 +68,8 @@ A full inventory and reordering system designed to monitor supply usage, ensure 
 📸 Screenshot
 
 ![Pharma Reordering System](https://github.com/mariadevhub/mariadevhub/blob/main/Pharma%20Reordering%20Management%20System.png)
+
+---
 
 🔹 Marcela Pharma Distribution Inc. – UNILAB System
 
