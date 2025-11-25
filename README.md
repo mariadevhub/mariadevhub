@@ -50,7 +50,7 @@ I create user-friendly, scalable websites and systems that help businesses grow 
 
 ### 📂 Featured Projects
 
-🔹 Purchasing Order Monitoring System
+### 🔹 Purchasing Order Monitoring System
 
 A comprehensive web-based system built to streamline and track purchasing orders across multiple departments, providing real-time visibility and workflow efficiency.
 
@@ -61,7 +61,7 @@ A comprehensive web-based system built to streamline and track purchasing orders
 
 ---
 
-🔹 Pharma Reordering Management System
+### 🔹 Pharma Reordering Management System
 
 A full inventory and reordering system designed to monitor supply usage, ensure availability, and automate purchasing triggers.
 
@@ -71,7 +71,7 @@ A full inventory and reordering system designed to monitor supply usage, ensure 
 
 ---
 
-🔹 Marcela Pharma Distribution Inc. – UNILAB System
+### 🔹 Marcela Pharma Distribution Inc. – UNILAB System
 
 📸 Screenshot
 
