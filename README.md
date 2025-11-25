@@ -49,26 +49,80 @@ I create user-friendly, scalable websites and systems that help businesses grow 
 
 ---
 
-### 📂 Featured Project  
+📂 Featured Projects
+🔹 Purchasing Order Monitoring System
 
-#### 🔹 **Purchasing Order Monitoring System**  
-<!-- [🖥️ Live Demo (Internal Access)](http://172.16.161.152/po_monitoring/PO_ctrl/Po_monitoring) -->
+A comprehensive web-based system built to streamline and track purchasing orders across multiple departments, providing real-time visibility and workflow efficiency.
 
-A comprehensive **web-based system** built with **CodeIgniter 3**, **PHP**, **JavaScript**, **HTML5**, **CSS3**, **jQuery**, **DataTables**, and **MySQL**, designed to **streamline purchasing workflows** and enhance operational visibility across departments.  
+🧩 Core Features
 
-🧩 **Core Features:**  
-- Vendor-based order tracking and monitoring  
-- Real-time status updates for *Pending*, *Done*, *Overdue*, and *Not Due Yet* items  
-- Role-based access control (Purchasing, Pricing, Accounting, and Audit views)  
-- Smart filtering and search by department or vendor  
-- Interactive charts and summary tiles for quick analytics  
-- Intuitive dashboard interface for better decision-making  
+Vendor-based PO tracking
 
-🖥️ **Tech Stack:** CodeIgniter 3 · PHP · JavaScript · HTML5 · CSS3 · jQuery · DataTables · MySQL · Chart.js  
+Status monitoring (Pending, Done, Overdue, Not Due Yet)
 
-💡 **Designed for corporate environments** that value **speed, accuracy, and clarity** in their purchasing and approval processes.  
+Role-based dashboards (Purchasing, Pricing, Accounting, Audit)
 
-![Purchasing Order Monitoring System Screenshot](https://github.com/mariadevhub/mariadevhub/blob/main/PO-monitoring.png)
+DataTables with filtering, search, and pagination
+
+Analytics overview with summary tiles and charts
+
+🖥️ Tech Stack
+
+PHP · CodeIgniter 3 · JavaScript · jQuery · HTML5 · CSS3 · DataTables · MySQL · Chart.js
+
+📸 Screenshot
+
+
+
+
+🔹 Pharma Reordering Management System
+
+A full inventory and reordering system designed to monitor supply usage, ensure availability, and automate purchasing triggers.
+
+🧩 Core Features
+
+Real-time stock monitoring
+
+Minimum stock alerts
+
+Automated reorder scheduling
+
+Supplier and PO logs
+
+Exportable and printable reports
+
+🖥️ Tech Stack
+
+PHP · CodeIgniter · MySQL · jQuery · HTML5 · CSS3
+
+📸 Screenshot
+
+Replace with your real image:
+
+![Pharma Reordering System](https://your-image-link-here)
+🔹 Marcela Pharma Distribution Inc. – UNILAB System
+
+A corporate system developed for internal workflow, approval processes, and document management for Marcela Pharma Distribution Inc.
+
+🧩 Core Features
+
+Business document workflow automation
+
+Secure role-based access control
+
+Dashboard and monitoring tools
+
+Designed for real business operations and staff usability
+
+🖥️ Tech Stack
+
+PHP · CodeIgniter · MySQL · HTML5 · CSS3 · JavaScript · jQuery
+
+📸 Screenshot
+
+Replace with your real image:
+
+![MPDI UNILAB System](https://your-image-link-here)
 
 ---
 
