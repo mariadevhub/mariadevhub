@@ -63,10 +63,10 @@ https://github.com/mariadevhub/mariadevhub/blob/main/PO%20Monitoring%20System.pn
 🔹 Pharma Reordering Management System
 
 A full inventory and reordering system designed to monitor supply usage, ensure availability, and automate purchasing triggers.
+
 📸 Screenshot
 
-
-![Pharma Reordering System](https://your-image-link-here)
+![Pharma Reordering System]([https://your-image-link-here](https://github.com/mariadevhub/mariadevhub/blob/main/Pharma%20Reordering%20Management%20System.png))
 
 🔹 Marcela Pharma Distribution Inc. – UNILAB System
 📸 Screenshot
