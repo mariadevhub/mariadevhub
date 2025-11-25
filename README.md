@@ -74,7 +74,7 @@ A full inventory and reordering system designed to monitor supply usage, ensure 
 📸 Screenshot
 
 
-![MPDI UNILAB System](https://your-image-link-here)
+![MPDI UNILAB System](https://your-image-link-here](https://github.com/mariadevhub/mariadevhub/blob/main/Marcela%20Pharma%20Distribution%20Inc.%20-%20UNILAB.png)
 
 ---
 
