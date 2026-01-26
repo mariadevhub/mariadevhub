@@ -79,6 +79,14 @@ A full inventory and reordering system designed to monitor supply usage, ensure 
 
 ---
 
+### 🔹 URC MANAGEMENT SYSTEM
+
+📸 Screenshot
+
+![URC Warehouse Management System](https://github.com/mariadevhub/mariadevhub/blob/main/URC%20Warehouse%20Management%20System.png)
+
+---
+
 ### 📈 GitHub Stats  
 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariadevhub&show_icons=true&theme=tokyonight)
